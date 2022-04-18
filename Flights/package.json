@@ -1,0 +1,9 @@
+{
+  "name": "flights",
+  "version": "0.0.0",
+  "description": "Flights",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
