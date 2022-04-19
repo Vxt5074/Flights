@@ -1,0 +1,3 @@
+C:\Users\Victor Than\source\repos\Flights\obj\Debug\Flights.njsproj.AssemblyReference.cache
+C:\Users\Victor Than\source\repos\Flights\obj\Debug\Flights.njsproj.CoreCompileInputs.cache
+C:\Users\Victor Than\source\repos\Flights\bin\Microsoft.NodejsTools.WebRole.dll
